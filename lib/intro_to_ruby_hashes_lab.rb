@@ -3,7 +3,7 @@ def new_hash
 end
 
 def my_hash
-  { "mycat" => "is Smoky"} 
+  { mycat: "Smoky"} 
 end
 
 def pioneer
